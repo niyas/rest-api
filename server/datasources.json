@@ -2,7 +2,7 @@
   "mongds": {
     "host": "ds151259.mlab.com",
     "port": 51259,
-    "url": "mongodb://ds151259.mlab.com:51259",
+    "url": "mongodb://admin:admin1234@ds151259.mlab.com:51259/restapidb",
     "database": "restapidb",
     "password": "admin1234",
     "name": "mongds",
